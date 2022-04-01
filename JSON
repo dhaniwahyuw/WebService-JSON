@@ -1,0 +1,175 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "kategori": "laptop",
+            "nama": " Geforce RTX gaming 30",
+            "deskripsi": "Laptop ini dibekali dengan spesifikasi terbaik untuk bermain game.",
+            "berat": "1.9 kg",
+            "harga": "10.200.000",
+            "stok": 1,
+            "produk": [
+                {
+                    "ukuran": "15.6 inch",
+                    "warna": "black",
+                    "bahan": "alumunium",
+                    "tipe" : "gaming"
+                }
+            ]
+        },
+		{
+            "id": 7,
+            "kategori": "laptop",
+            "nama": "Macbook Apple 2019",
+            "deskripsi": "MacBook Pro 2019 varian 16 inch dirilis dengan dibekali prosesor intel core i5 yang punya performa 2x lebih tinggi dibandingkan generasi sebelumnya.",
+            "harga": "17.800.000",
+            "berat": "1.32 Kg",
+            "stok": 5,
+            "produk": [
+                {
+                    "ukuran": "13.3 inch",
+                    "warna": "white",
+                    "bahan": "alumunium",
+                    "tipe" : "macbook"
+                }
+            ]
+        },
+		{
+            "id": 11,
+            "kategori": "Earphone",
+            "nama": "JBL Tune 110",
+            "deskripsi": "JBL Tune 110 merupakan headset gaming yang dilengkapi dengan mikrofon ganda yang fleksibel, mic bisa dipasang dan dilepas sesuai keperluan.",
+            "harga": "90.000",
+            "berat": "300 g",
+            "stok": 10,
+            "produk": [
+                {
+                    "ukuran": "15 mm",
+                    "warna": "white, black,red",
+                    "bahan" : "alumunium",
+                    "tipe" : "earphone"
+                }
+            ]
+        },
+		 {
+            "id": 20,
+            "kategori": "Headset",
+            "nama": "JBL Quantum",
+            "deskripsi": "JBL Quantum adalah headset in ear yang hadir dalam berbagai pilihan warna. Kamu akan dimanjakan dengan suara berkualitas tinggi untuk menemani kamu beraktivitas.",
+            "harga": " 120.000",
+            "berat": "15 g",
+            "stok": 6,
+            "produk": [
+                {
+                    "ukuran": "15 mm",
+                    "warna": "blue",
+                    "bahan": "plastik",
+                    "tipe" : "Headset"
+                }
+			]
+		},
+		{
+            "id": 25,
+            "kategori": "earphone",
+            "nama": "Apple AirPods",
+            "deskripsi": "Apple AirPods adalah headset Bluetooth yang dapat digunakan selama 3h waktu bicara dan 5h waktu beroperasi.",
+            "harga": "1.303.000",
+            "berat": "4 g",
+            "stok": 6,
+            "produk": [
+                {
+                    "ukuran": "15 mm",
+                    "warna": "white",
+                    "bahan": "plastik",
+                    "tipe" : "earphone"
+                }
+            ]
+        },
+		 {
+            "id": 6,
+            "kategori": "laptop",
+            "nama": "ASUS VivoBook 14 A412FA",
+            "deskripsi": "Laptop ASUS VivoBook 14 A412FA adalah ultrabook dengan bobot 1.5kg dan layar 14 inch beresolusi 1920 x 1080pixels.",
+            "harga": "12.900.000",
+            "berat": "1.5 Kg",
+            "stok": 10,
+            "produk": [
+                {
+                    "ukuran": "14 inch",
+                    "warna": "white",
+                    "bahan": "alumunium",
+                    "tipe" : "notebook"
+                }
+            ]
+        },
+		{{
+            "id": 10,
+            "kategori": "laptop",
+            "nama": "Huawei Matebook 14s",
+            "deskripsi": "Laptop ASUS VivoBook 14 A412FA adalah ultrabook dengan bobot 1.5kg dan layar 14 inch beresolusi 1920 x 1080pixels.",
+            "harga": "15.994.000",
+            "berat": "1.43 Kg",
+            "stok": 10,
+            "produk": [
+                {
+                    "ukuran": "14.2 inch",
+                    "warna": "white",
+                    "bahan": "alumunium",
+                    "tipe" : "notebook"
+                }
+            ]
+        },
+		{
+            "id": 12,
+            "kategori": "earphone",
+            "nama": "KZ ZS10",
+            "deskripsi": "Earphone besutan Knowledge Zenith ini mempunyai frekuensi  7Hz-40000Hz, impendasi 32 ohms, dan sensitivitas 104 DB yang performanya memukau dan bassnya sangat terdengar rapi. Selain itu, KZ ZS10 memiliki kabel over-the-ear berbentuk anyaman dan transparan yang bisa dicopot dan dipasang.",
+            "harga": "389.000 ",
+            "berat": "250 g",
+            "stok": 3,
+            "produk": [
+                {
+                    "ukuran": "1.2m±3cm",
+                    "warna": "blue, purple",
+                    "bahan": "alumunium",
+                    "tipe" : "wireless"
+                }
+            ]
+        },
+		 {
+            "id": 16,
+            "kategori": "earphone",
+            "nama": "Pioneer Extra Bass SE-QL2T",
+            "deskripsi": "Pioneer Extra Bass SE-QLZT merupakan salah satu pilihan product earphone terbaik keluaran Pioneer. Disempurnakan dengan bass yang kuat serta ear ban lembut yang nyaman, tipe headset populer ini juga memiliki desain yang trendy.",
+            "harga": "100.000",
+            "berat": "120 g",
+            "stok": 6,
+            "produk": [
+                {
+                    "ukuran": "15 mm",
+                    "warna": "black",
+                    "bahan": "neodymium",
+                    "tipe" : "earphone"
+                }
+            ]
+        },
+		{
+            "id": 20,
+            "kategori": "Headset",
+            "nama": "JBL Quantum",
+            "deskripsi": "JBL Quantum adalah headset in ear yang hadir dalam berbagai pilihan warna. Kamu akan dimanjakan dengan suara berkualitas tinggi untuk menemani kamu beraktivitas.",
+            "harga": " 120.000",
+            "berat": "15 g",
+            "stok": 6,
+            "produk": [
+                {
+                    "ukuran": "15 mm",
+                    "warna": "blue",
+                    "bahan": "plastik",
+                    "tipe" : "Headset"
+                }
+            ]
+        }
+    ]
+}
+          
